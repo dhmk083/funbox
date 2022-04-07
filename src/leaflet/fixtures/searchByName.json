@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "query": ["qwerty"],
+  "features": [
+    {
+      "id": "poi.317827607182",
+      "type": "Feature",
+      "place_type": ["poi"],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4c54b19ea724e21ec42dc8f6",
+        "landmark": true,
+        "address": "C. Mercaderes, 18",
+        "category": "bar, pub, alcohol, liquor, beer"
+      },
+      "text": "Qwerty",
+      "place_name": "Qwerty, C. Mercaderes, 18, Pamplona, Navarre 31001, Spain",
+      "center": [-1.64281, 42.818784],
+      "geometry": { "coordinates": [-1.64281, 42.818784], "type": "Point" },
+      "context": [
+        { "id": "neighborhood.5031780880458730", "text": "Casco Antiguo" },
+        { "id": "postcode.11475203887202740", "text": "31001" },
+        {
+          "id": "place.9949073118543300",
+          "wikidata": "Q10282",
+          "text": "Pamplona"
+        },
+        {
+          "id": "region.5632881632422790",
+          "wikidata": "Q4018",
+          "short_code": "ES-NC",
+          "text": "Navarre"
+        },
+        {
+          "id": "country.3373497261570100",
+          "wikidata": "Q29",
+          "short_code": "es",
+          "text": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "poi.489626311739",
+      "type": "Feature",
+      "place_type": ["poi"],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "5a85b86f35811b2a8294ffdd",
+        "landmark": true,
+        "address": "27 E Elizabeth Ave",
+        "category": "print services, print"
+      },
+      "text": "QwertyDirect Printing & Embroidery",
+      "place_name": "QwertyDirect Printing & Embroidery, 27 E Elizabeth Ave, Linden, New Jersey 07036, United States",
+      "center": [-74.252239, 40.631028],
+      "geometry": { "coordinates": [-74.252239, 40.631028], "type": "Point" },
+      "context": [
+        { "id": "neighborhood.12498835638819420", "text": "Elmora" },
+        { "id": "postcode.6607807449083480", "text": "07036" },
+        {
+          "id": "place.7621876469883860",
+          "wikidata": "Q1004712",
+          "text": "Linden"
+        },
+        {
+          "id": "district.10214565888743840",
+          "wikidata": "Q502459",
+          "text": "Union County"
+        },
+        {
+          "id": "region.8524001885700330",
+          "wikidata": "Q1408",
+          "short_code": "US-NJ",
+          "text": "New Jersey"
+        },
+        {
+          "id": "country.19678805456372290",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "poi.558345848680",
+      "type": "Feature",
+      "place_type": ["poi"],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "58a5d476d25ded751fb58e7f",
+        "landmark": true,
+        "address": "Media One Hotel",
+        "category": "gastropub"
+      },
+      "text": "Qwerty",
+      "place_name": "Qwerty, Media One Hotel, Dubai, Dubai, United Arab Emirates",
+      "center": [55.151941, 25.089732],
+      "geometry": { "coordinates": [55.151941, 25.089732], "type": "Point" },
+      "context": [
+        { "id": "place.3291366134658090", "wikidata": "Q612", "text": "Dubai" },
+        {
+          "id": "region.8129480124633730",
+          "wikidata": "Q613",
+          "short_code": "AE-DU",
+          "text": "Dubai"
+        },
+        {
+          "id": "country.11702916565595680",
+          "wikidata": "Q878",
+          "short_code": "ae",
+          "text": "United Arab Emirates"
+        }
+      ]
+    },
+    {
+      "id": "poi.738734397113",
+      "type": "Feature",
+      "place_type": ["poi"],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "51dd317e8bbd2d3ef37cc3c3",
+        "landmark": true,
+        "address": "1050 Chestnut St",
+        "category": "education, school",
+        "maki": "school"
+      },
+      "text": "QWERTY Education Services",
+      "place_name": "QWERTY Education Services, 1050 Chestnut St, Menlo Park, California 94025, United States",
+      "center": [-122.183947, 37.451321],
+      "geometry": { "coordinates": [-122.183947, 37.451321], "type": "Point" },
+      "context": [
+        {
+          "id": "neighborhood.11834163715438380",
+          "text": "Downtown Menlo Park"
+        },
+        { "id": "postcode.15104196455265110", "text": "94025" },
+        {
+          "id": "place.8255053389908190",
+          "wikidata": "Q74195",
+          "text": "Menlo Park"
+        },
+        {
+          "id": "district.4136415392199530",
+          "wikidata": "Q108101",
+          "text": "San Mateo County"
+        },
+        {
+          "id": "region.9803118085738010",
+          "wikidata": "Q99",
+          "short_code": "US-CA",
+          "text": "California"
+        },
+        {
+          "id": "country.19678805456372290",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "poi.592705565631",
+      "type": "Feature",
+      "place_type": ["poi"],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "5968fcb7a6031c5daa2789b3",
+        "landmark": true,
+        "address": "Viale Elena, 6",
+        "category": "computer, electronic, electronics, shop"
+      },
+      "text": "Qwerty Rent",
+      "place_name": "Qwerty Rent, Viale Elena, 6, Ottaviano, Naples 80044, Italy",
+      "center": [14.48191, 40.85016],
+      "geometry": { "coordinates": [14.48191, 40.85016], "type": "Point" },
+      "context": [
+        { "id": "postcode.5667055824438030", "text": "80044" },
+        {
+          "id": "place.5714675885209610",
+          "wikidata": "Q72293",
+          "text": "Ottaviano"
+        },
+        {
+          "id": "region.9509885413706730",
+          "wikidata": "Q15123",
+          "short_code": "IT-NA",
+          "text": "Naples"
+        },
+        {
+          "id": "country.18258463351519910",
+          "wikidata": "Q38",
+          "short_code": "it",
+          "text": "Italy"
+        }
+      ]
+    }
+  ],
+  "attribution": "NOTICE: © 2021 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}

@@ -1,0 +1,30 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+}
+
+.main > * {
+  flex: 1;
+}
+
+.header {
+  padding: 1em;
+  box-shadow: 0 0 8px 0 #555;
+  z-index: 1000;
+}
+
+.linksWrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.linksWrap > * {
+  margin: 0 1em;
+}

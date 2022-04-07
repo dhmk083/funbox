@@ -1,0 +1,3 @@
+.selected {
+  filter: hue-rotate(150deg);
+}

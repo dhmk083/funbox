@@ -1,0 +1,172 @@
+{
+  "type": "FeatureCollection",
+  "query": [-1.642, 42.818],
+  "features": [
+    {
+      "id": "address.4377744632584956",
+      "type": "Feature",
+      "place_type": ["address"],
+      "relevance": 1,
+      "properties": { "accuracy": "rooftop" },
+      "text": "Calle Calderería",
+      "place_name": "Calle Calderería 30, 31001 Pamplona, Navarre, Spain",
+      "center": [-1.64182143128612, 42.8180794042565],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.64182143128612, 42.8180794042565]
+      },
+      "address": "30",
+      "context": [
+        { "id": "neighborhood.5031780880458730", "text": "Casco Antiguo" },
+        { "id": "postcode.11475203887202740", "text": "31001" },
+        {
+          "id": "place.9949073118543300",
+          "wikidata": "Q10282",
+          "text": "Pamplona"
+        },
+        {
+          "id": "region.5632881632422790",
+          "wikidata": "Q4018",
+          "short_code": "ES-NC",
+          "text": "Navarre"
+        },
+        {
+          "id": "country.3373497261570100",
+          "wikidata": "Q29",
+          "short_code": "es",
+          "text": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "neighborhood.5031780880458730",
+      "type": "Feature",
+      "place_type": ["neighborhood"],
+      "relevance": 1,
+      "properties": {},
+      "text": "Casco Antiguo",
+      "place_name": "Casco Antiguo, Pamplona, Navarre, Spain",
+      "bbox": [-1.6512798, 42.8148925, -1.637519, 42.8231956],
+      "center": [-1.645785, 42.818252],
+      "geometry": { "type": "Point", "coordinates": [-1.645785, 42.818252] },
+      "context": [
+        { "id": "postcode.11475203887202740", "text": "31001" },
+        {
+          "id": "place.9949073118543300",
+          "wikidata": "Q10282",
+          "text": "Pamplona"
+        },
+        {
+          "id": "region.5632881632422790",
+          "wikidata": "Q4018",
+          "short_code": "ES-NC",
+          "text": "Navarre"
+        },
+        {
+          "id": "country.3373497261570100",
+          "wikidata": "Q29",
+          "short_code": "es",
+          "text": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "postcode.11475203887202740",
+      "type": "Feature",
+      "place_type": ["postcode"],
+      "relevance": 1,
+      "properties": {},
+      "text": "31001",
+      "place_name": "31001, Pamplona, Navarre, Spain",
+      "bbox": [-1.650975, 42.81461, -1.63776, 42.822427],
+      "center": [-1.644256, 42.818454],
+      "geometry": { "type": "Point", "coordinates": [-1.644256, 42.818454] },
+      "context": [
+        {
+          "id": "place.9949073118543300",
+          "wikidata": "Q10282",
+          "text": "Pamplona"
+        },
+        {
+          "id": "region.5632881632422790",
+          "wikidata": "Q4018",
+          "short_code": "ES-NC",
+          "text": "Navarre"
+        },
+        {
+          "id": "country.3373497261570100",
+          "wikidata": "Q29",
+          "short_code": "es",
+          "text": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "place.9949073118543300",
+      "type": "Feature",
+      "place_type": ["place"],
+      "relevance": 1,
+      "properties": { "wikidata": "Q10282" },
+      "text": "Pamplona",
+      "place_name": "Pamplona, Navarre, Spain",
+      "bbox": [-1.695008, 42.788847, -1.604481, 42.84271],
+      "center": [-1.65, 42.81667],
+      "geometry": { "type": "Point", "coordinates": [-1.65, 42.81667] },
+      "context": [
+        {
+          "id": "region.5632881632422790",
+          "wikidata": "Q4018",
+          "short_code": "ES-NC",
+          "text": "Navarre"
+        },
+        {
+          "id": "country.3373497261570100",
+          "wikidata": "Q29",
+          "short_code": "es",
+          "text": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "region.5632881632422790",
+      "type": "Feature",
+      "place_type": ["region"],
+      "relevance": 1,
+      "properties": { "wikidata": "Q4018", "short_code": "ES-NC" },
+      "text": "Navarre",
+      "place_name": "Navarre, Spain",
+      "bbox": [
+        -2.49919097678728, 41.9098510090172, -0.724536012214315,
+        43.3146509980066
+      ],
+      "center": [-1.65, 42.81667],
+      "geometry": { "type": "Point", "coordinates": [-1.65, 42.81667] },
+      "context": [
+        {
+          "id": "country.3373497261570100",
+          "wikidata": "Q29",
+          "short_code": "es",
+          "text": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "country.3373497261570100",
+      "type": "Feature",
+      "place_type": ["country"],
+      "relevance": 1,
+      "properties": { "wikidata": "Q29", "short_code": "es" },
+      "text": "Spain",
+      "place_name": "Spain",
+      "bbox": [
+        -18.26058679677, 27.549342501341, 4.42745558602024, 43.8623514995921
+      ],
+      "center": [-4.05568501525488, 41.2948556295683],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.05568501525488, 41.2948556295683]
+      }
+    }
+  ],
+  "attribution": "NOTICE: © 2021 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}

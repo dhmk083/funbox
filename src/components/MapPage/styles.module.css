@@ -1,0 +1,25 @@
+.wrap {
+  display: flex;
+  width: 100%;
+}
+
+.controls {
+  flex: 1;
+}
+
+.map {
+  flex: 3;
+  min-width: 0;
+}
+
+@media (max-width: 768px) {
+  .wrap {
+    flex-direction: column-reverse;
+  }
+
+  .map {
+    max-height: 80vh;
+    height: 80vh;
+    flex-basis: auto;
+  }
+}
